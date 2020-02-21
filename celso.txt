@@ -1,3 +1,4 @@
+ /*
  Volume in drive C has no label.
  Volume Serial Number is A027-9CF2
 
@@ -8,3 +9,23 @@
 21/02/2020  16:38                 0 celso.txt
                1 File(s)              0 bytes
                2 Dir(s)  234.799.108.096 bytes free
+
+*/
+
+#include<stdio.h>
+int main(){
+    char op;
+    int op1,op2;
+    printf ("qual operação?\n");
+    scanf ("%C",&op);
+    printf("Qual o primeiro operando?\n");
+    scanf ("%d",&op1);
+    printf("Qual o segundo operando?\n");
+    scanf ("%d",&op2);
+    switch (op){
+        case '+':
+            printf("%d + %d = %d/n",op1,op2,op1+op2);
+            break;
+    }
+    return 0;
+}
