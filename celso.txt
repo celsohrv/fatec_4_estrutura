@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A027-9CF2
+
+ Directory of C:\Users\alunofatec-local\Documents\Celso
+
+21/02/2020  16:38    <DIR>          .
+21/02/2020  16:38    <DIR>          ..
+21/02/2020  16:38                 0 celso.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  234.799.108.096 bytes free
